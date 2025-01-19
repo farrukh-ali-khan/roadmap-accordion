@@ -8,7 +8,7 @@ You can find more details about this project on the roadmap here: [Project URL](
 
 ## Live URL
 
-You can view the live demo of the project on GitHub Pages here: [Live URL](https://github.com/farrukh-ali-khan/roadmap-accordion/)
+You can view the live demo of the project on GitHub Pages here: [Live URL](https://farrukh-ali-khan.github.io/roadmap-accordion/)
 
 ## Requirements
 
